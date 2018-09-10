@@ -2707,4 +2707,6 @@
 #include "sunset\code\__HELPERS\text_filters.dm"
 #include "sunset\code\_globalvars\lists\names.dm"
 #include "sunset\code\modules\mob\mob_helpers.dm"
+#include "sunset\code\controllers\configuration\entries\config.dm"
+#include "sunset\interface\interface.dm"
 // END_INCLUDE
